@@ -1,0 +1,12 @@
+Column1,Column2,Column3,Column4,Column5,Column6,Column7
+exam_score,study_time,age,gender,parental_education_level,lunch,prep_course
+85,5,16,female,highschool,standard,completed
+83,3,17,male,highschool,standard,none
+78,7,16,female,associate,free/reduced,completed
+69,2,17,male,some_college,standard,none
+92,7,16,female,master,free/reduced,completed
+55,1,18,male,highschool,standard,none
+73,4,17,male,some_college,standard,completed
+88,5,16,female,highschool,standard,completed
+64,2,18,male,some_college,standard,none
+91,5,16,female,highschool,standard,completed
